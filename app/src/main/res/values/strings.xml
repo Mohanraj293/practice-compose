@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">Compose Learning</string>
+  <string name="title_activity_width_and_required_width">WidthAndRequiredWidth</string>
+  <string name="title_activity_image_card">ImageCard</string>
 </resources>
